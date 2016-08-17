@@ -7,7 +7,7 @@ PythonShare
 
 一、学会使用搜索引擎，尤其是Google。推荐阅读文章
 --------------------------
-  [《如何用好Google搜索引擎？》](http://www.zhihu.com/question/20161362) 知乎问答@崔凯  
+  [《如何用好Google搜索引擎？》](http://www.zhihu.com/question/20161362) 知乎问答@崔凯  http://www.126.com
   
   [《十大高明的Google搜索技巧》](http://www.williamlong.info/archives/728.html)by-雪影蓝风  
   
